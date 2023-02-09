@@ -1,6 +1,6 @@
 using System;
 
-class paystub {
+class PayStub {
     // global variables
     // the Heath Insurance Rate is 6%
     static int HIRate = 6;
