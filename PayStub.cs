@@ -1,5 +1,5 @@
 /*
-* A user interactive program console application that can input information from the user and display correct pay stub information.
+* An interactive user console application that can input information from the user and display correct pay stub information.
 * The program will begin by receiving input information from the user to compute the employee’s pay stub information;
 * then calculate the correct pay stub information;
 * then display employee’s pay stub information in correct format on-screen.
